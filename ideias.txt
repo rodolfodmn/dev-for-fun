@@ -1,0 +1,4 @@
+desenvolver um cli php para migrations
+  um model cria uma tabela que com base nas propriedades e tals...
+desenvolver um gerenciador de banco com find, findAll e coisas assim.
+desenvolver um sdk grafica com js.
