@@ -1,0 +1,7 @@
+{
+    "database":{
+        "path":"",
+        "user":"root",
+        "password":"root"
+    }
+}
