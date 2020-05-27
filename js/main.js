@@ -3,7 +3,6 @@ import Api from './data/Api.js'
 let Main = (function (){
 
     function init() {
-        let teste = Api.request()
         alert(teste)
     }
 
